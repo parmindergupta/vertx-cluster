@@ -25,7 +25,7 @@ curl -XPOST localhost:9560/send/msg:Test
 ```
 
 ## References
-https://vertx.io/docs/vertx-hazelcast/java/
-https://medium.com/halofina-techology/high-performance-web-app-with-vert-x-cluster-28caf7004aab
-https://github.com/hakdogan/IntroduceToEclicpseVert.x
-https://hakdogan.medium.com/how-to-run-a-vert-x-cluster-with-broadcasting-messaging-fc79ff113c9c
+- https://vertx.io/docs/vertx-hazelcast/java/
+- https://medium.com/halofina-techology/high-performance-web-app-with-vert-x-cluster-28caf7004aab
+- https://github.com/hakdogan/IntroduceToEclicpseVert.x
+- https://hakdogan.medium.com/how-to-run-a-vert-x-cluster-with-broadcasting-messaging-fc79ff113c9c
