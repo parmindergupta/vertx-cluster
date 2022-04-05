@@ -1,0 +1,6 @@
+include 'common'
+include 'peer'
+include 'primary'
+
+rootProject.name = 'vertx-cluster'
+rootProject.children.each { it.name = rootProject.name + "-" + it.name }
